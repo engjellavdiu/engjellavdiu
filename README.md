@@ -22,3 +22,6 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=engjellavdiu&theme=dark" width="45%" >
 
 <br>
+
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/engjellavdiu//)
