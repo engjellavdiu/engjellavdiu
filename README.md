@@ -16,8 +16,9 @@
 
 <br />
 
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-  <img align="centre" alt="Engjell's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=engjellavdiu&show_icons=true&hide_border=true" />
-</details>
+## 🏆 Github Status
+<img  src="https://github-readme-stats.vercel.app/api?username=engjellavdiu&show_icons=true&hide_border=true&theme=dark" width="45%" align="right" >
+
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=engjellavdiu&theme=dark" width="45%" >
+
+<br>
