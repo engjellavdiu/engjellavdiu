@@ -26,4 +26,4 @@
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/engjellavdiu//)
 
-QuantumStore Project [<img src="http://engjellavdiu.ml/images/logos/logo.svg">](http://engjellavdiu.ml/)
+QuantumStore Project [<  width="26px" img src="http://engjellavdiu.ml/images/logos/logo.svg">](http://engjellavdiu.ml/)
