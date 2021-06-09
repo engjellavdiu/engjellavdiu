@@ -25,4 +25,4 @@
 
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/engjellavdiu//)
-   QuantumStore [<img width="32px" src="http://engjellavdiu.ml/images/logos/logo.svg">](http://engjellavdiu.ml/)
+[<img width="32px" src="http://engjellavdiu.ml/images/logos/logo.svg"> <img height="28px" src="https://img.shields.io/badge/-QuantumStore-blue"> ](http://engjellavdiu.ml/)
