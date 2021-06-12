@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Engjell Avdiu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h2 align="center">Hi, I'm Engjell Avdiu <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <br />
 <h2 align="center"> Github Status </h3>
