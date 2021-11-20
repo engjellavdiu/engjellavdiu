@@ -1,7 +1,6 @@
 <h2 align="center">Hi, I'm Engjell Avdiu   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <br />
-<h2 align="center"> Github Status </h3>
 <img  src="https://github-readme-stats.vercel.app/api?username=engjellavdiu&show_icons=true&=true&theme=dark" width="45%" align="right" >
 
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=engjellavdiu&theme=dark" width="45%" >
