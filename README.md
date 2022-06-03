@@ -1,4 +1,4 @@
-<h2 align="center">Hi, I'm Engjell Avdiu   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h2 align="center">Hi, I'm Engjell Avdiu 👋🏼</h1>
 
 <br />
 <img  src="https://github-readme-stats.vercel.app/api?username=engjellavdiu&show_icons=true&=true&theme=dark" width="45%" align="right" >
